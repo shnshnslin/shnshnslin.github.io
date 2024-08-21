@@ -8,7 +8,7 @@
     <link href="/2024/08/21/test-post/"/>
     <url>/2024/08/21/test-post/</url>
     
-    <content type="html"><![CDATA[<p>This is a test msg</p>]]></content>
+    <content type="html"><![CDATA[<p>This is a test blog</p><h1 id="Test-H1"><a href="#Test-H1" class="headerlink" title="Test H1"></a>Test H1</h1><p>Test Text</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python">test code<br></code></pre></td></tr></table></figure><h2 id="Test-H2"><a href="#Test-H2" class="headerlink" title="Test H2"></a>Test H2</h2><blockquote><p>test q</p></blockquote><p>test list</p><ul><li>list text 1</li><li>list text 2</li><li>list text 3</li></ul>]]></content>
     
     
     
